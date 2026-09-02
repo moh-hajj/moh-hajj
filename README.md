@@ -26,12 +26,12 @@ and still studying.
 
 ### Selected work
 
-**Enterprise Network Design & Implementation** — three-site, 76-user network for a regulated
+**[Enterprise Network Design & Implementation](https://github.com/moh-hajj/enterprise-network-design)** — three-site, 76-user network for a regulated
 audit practice. Business analysis through to build: floor plans, bill of quantity, Packet Tracer
 topology with service VLANs and OSPF, Active Directory deployment, and AD security hardening
 with tested controls.
 
-**Multi-DC Active Directory Deployment** — redundant domain controllers with verified replication,
+**[Multi-DC Active Directory Deployment](https://github.com/moh-hajj/windows-server-ad-lab)** — redundant domain controllers with verified replication,
 bare-metal Windows Server Backup, RRAS VPN remote access, AD Sites and Services topology, and
 Server Core administration from the command line.
 
@@ -54,4 +54,4 @@ More detail, with write-ups: **[mohamadhajjar.com](https://mohamadhajjar.com)**
 
 ### Get in touch
 
-[Portfolio](https://mohamadhajjar.com) · [LinkedIn](https://www.linkedin.com/in/mohamad-hajjar-b92994263/) · [Email](mailto:mhmdhajjar14@hotmail.com)
+[Portfolio](https://mohamadhajjar.com) · [LinkedIn](https://www.linkedin.com/in/mohamad-hajjar-h3313/) · [Email](mailto:mhmdhajjar14@hotmail.com)
