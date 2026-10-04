@@ -41,7 +41,7 @@ recognition (YOLOv8, EasyOCR) on a Raspberry Pi, with GPIO access control and Te
 **First Global Challenge 2024** — international robotics competition; hardware assembly and
 robot functionality in Java.
 
-More detail, with write-ups: **[mohamadhajjar.com](https://mohamadhajjar.com)**
+More detail, with write-ups: **[mohhajjar.com](https://mohhajjar.com)**
 
 ---
 
