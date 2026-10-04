@@ -6,7 +6,7 @@ I build and document infrastructure — Cisco networks, Windows Server estates, 
 and Odoo ERP deployments. Advanced Diploma in IT (Computer Systems & Networks) from MCAST,
 and still studying.
 
-🌐 **[mohamadhajjar.com](https://mohamadhajjar.com)**
+🌐 **[mohhajjar.com](https://mohamadhajjar.com)**
 
 ---
 
