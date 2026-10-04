@@ -54,4 +54,4 @@ More detail, with write-ups: **[mohamadhajjar.com](https://mohamadhajjar.com)**
 
 ### Get in touch
 
-[Portfolio](https://mohamadhajjar.com) · [LinkedIn](https://www.linkedin.com/in/mohamad-hajjar-h3313/) · [Email](mailto:mhmdhajjar14@hotmail.com)
+[Portfolio](https://mohhajjar.com) · [LinkedIn](https://www.linkedin.com/in/mohamad-hajjar-h3313/) · [Email](mailto:mhmdhajjar14@hotmail.com)
